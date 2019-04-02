@@ -7,7 +7,9 @@ Cloner avec git clone les deux parties (front et back)
 Id: HassenRouibi
 Mdp: Hassen24
 
+Front:
 https://github.com/HassenRouibi/Nexio_Exercice_FrontEnd
+Back:
 https://github.com/HassenRouibi/Nexio_Exercice_BackEnd
 
 Copier le sources du front dans : exercice/src/main/resources/static/productFront
