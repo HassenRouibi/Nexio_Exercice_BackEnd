@@ -29,3 +29,6 @@ Voir les properties pour plus de détail
 ## Tests
 J'ai utilisé Junit et Mockito pour les tests
 
+## Connexion utilisateur
+Je n'ai pas eu le temps pour créer la table user et gérer le connexion et crypter le password car j'ai un sprint trop chargé
+
